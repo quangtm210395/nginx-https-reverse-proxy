@@ -11,7 +11,7 @@ Tớ dùng freenom nên sẽ truy cập vào trang quản lí domain của freen
 
 ![Config domain trên my.freenom.com][freenom-config]
 
-## Bước thứ 2: chúng ta sẽ cài đặt các thư viện cần thiết
+## Bước 2: chúng ta sẽ cài đặt các thư viện cần thiết
 Các package mà tớ sẽ cài đặt ở bước này bao gồm:
   - Nginx
   - Certbot
