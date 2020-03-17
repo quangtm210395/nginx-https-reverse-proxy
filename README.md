@@ -10,4 +10,4 @@ Tớ dùng freenom nên sẽ truy cập vào trang quản lí domain của freen
 
 ![Config domain trên my.freenom.com][freenom-config]
 
-[freenom-config]: https://hikariq-article-images.s3-ap-southeast-1.amazonaws.com/freenom.png
+[freenom-config]: https://hikariq-article-images.s3-ap-southeast-1.amazonaws.com/freenomconfig.jpg
