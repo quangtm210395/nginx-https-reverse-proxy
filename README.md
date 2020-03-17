@@ -39,7 +39,7 @@ Trong bài viết này mình sẽ tiến hành cấu hình SSL cho domain mới 
 
 Đầu tiên ta cần tạo file hikariq.ml trong folder /etx/nginx/sites-available
 
-![hikariq.ml] https://gist.github.com/quangtm210395/a4ad15189136f71faa62c1ad94bbb8b4.js
+<script src="https://gist.github.com/quangtm210395/a4ad15189136f71faa62c1ad94bbb8b4.js"></script>
 
 [nginx-reverse-proxy]: https://hikariq-article-images.s3-ap-southeast-1.amazonaws.com/nginx-reverse-proxy.png
 [freenom-config]: https://hikariq-article-images.s3-ap-southeast-1.amazonaws.com/freenomconfig.jpg
